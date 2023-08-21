@@ -3,6 +3,22 @@ layout: default
 title: Ian's Blog - Homepage
 ---
 
+<style>
+.button {
+    background-color: #008CBA;
+    border-radius: 8px;
+    font-size: 16px;
+    border: 2px solid #008CBA;
+    transition-duration: 0.4s;
+    color: white;
+    float: left;
+    }
+.button:hover {
+  background-color: white; 
+  color: black;
+}
+</style>
+.button {background-color: #008CBA;}
 
 # Ian's Blog - CSP
 I'm Ian, a current 10th grader, and this blog will go through my journey in CSP - All the struggles, successes, and failures that I go through
@@ -16,7 +32,13 @@ One of my passions is learning various things about geography, as there are many
 - City coverage on a map: [Hugequiz](https://hugequiz.com/quizzes)
 - [Geoguessr](https://www.geoguessr.com/)
 
-<button type="button" onclick="alert('Testing')">Click Me!</button>
+### Schedule
+Click the buttons below to see my schedule for this first trimester.
+<button class="button" type="button" onclick="alert('AP Physics C: Mechanics')">Period 1</button>
+<button class="button" type="button" onclick="alert('AP Calculus AB')">Period 2</button>
+<button class="button" type="button" onclick="alert('Honors Humanities 1')">Period 3</button>
+<button class="button" type="button" onclick="alert('AP Chinese')">Period 4</button>
+<button class="button" type="button" onclick="alert('AP Computer Science Principles')">Period 5</button>
 
 ### Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
