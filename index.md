@@ -4,8 +4,13 @@ title: Ian's Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## Ian's Blog - CSP
+This blog will go through my journey in CSP - All the struggles, successes, and failures that I go through
+
+## Hobbies
+Where I spend my time when I'm not overloaded with the truckton of homework I get
+- Cool geography test: [Cityquiz](https://cityquiz.io)
+- Freeform image, about me: ![Freeform-about-me](./images/csp_image_thing.png)
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
