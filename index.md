@@ -22,7 +22,7 @@ title: Ian's Blog - Homepage
 # Ian's Blog - CSP
 I'm Ian, a current 10th grader, and this blog will go through my journey in CSP - All the struggles, successes, and failures that I go through in this class.
 
-Latest Weekly Log: [Week-1-Log](_posts/2023-08-21-Week%201.md)
+Latest Weekly Log: [Week-1-Log](2023/08/21/Week-1.html)
 
 ### Hobbies/About Me
 Where I spend my time when I'm not overloaded with the truckton of homework I get
