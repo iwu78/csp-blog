@@ -22,7 +22,7 @@ title: Ian's Blog - Homepage
 # Ian's Blog - CSP
 I'm Ian, a current 10th grader, and this blog will go through my journey in CSP - All the struggles, successes, and failures that I go through in this class.
 
-Latest Weekly Log: [Week-1-Log](2023/08/21/Week-1.html)
+Latest Weekly Log: [Week-1-Log](log/2023/08/21/Week-1.html)
 
 ### Hobbies/About Me
 Where I spend my time when I'm not overloaded with the truckton of homework I get
@@ -35,6 +35,7 @@ One of my passions is learning various things about geography, as there are many
 - City knowledge test: [Cityquiz](https://cityquiz.io)
 - City coverage on a map: [Hugequiz](https://hugequiz.com/quizzes)
 - [Geoguessr](https://www.geoguessr.com/)
+- Redraw the state borders to see the outcome of elections: [Redraw the States](https://kevinhayeswilson.com/redraw)
 
 ### Schedule
 <p>Click the buttons below to see my schedule for this first trimester.</p>
