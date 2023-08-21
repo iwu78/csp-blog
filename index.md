@@ -27,7 +27,7 @@ Latest Weekly Log: [Week-1-Log](_posts/2023-08-21-Week%201.md)
 ### Hobbies/About Me
 Where I spend my time when I'm not overloaded with the truckton of homework I get
 - Freeform image, about me: 
-![Freeform-about-me](/images/csp_image_thing.png){width=35% height=35%}
+<img src="/images/csp_image_thing.png" alt="Freeform About Me" style="width:200px;height:400px;">
 The above represents my interests, namely geography and computers, as well as a love for road trips. Please excuse the terrible drawing skills, drawing is not my strong suite.
 
 ##### Geography Links
@@ -37,8 +37,7 @@ One of my passions is learning various things about geography, as there are many
 - [Geoguessr](https://www.geoguessr.com/)
 
 ### Schedule
-Click the buttons below to see my schedule for this first trimester.
-.
+<p>Click the buttons below to see my schedule for this first trimester.</p>
 <button class="button" type="button" onclick="alert('AP Physics C: Mechanics')">Period 1</button>
 <button class="button" type="button" onclick="alert('AP Calculus AB')">Period 2</button>
 <button class="button" type="button" onclick="alert('Honors Humanities 1')">Period 3</button>
