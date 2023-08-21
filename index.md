@@ -18,14 +18,18 @@ title: Ian's Blog - Homepage
   color: black;
 }
 </style>
-.button {background-color: #008CBA;}
 
 # Ian's Blog - CSP
-I'm Ian, a current 10th grader, and this blog will go through my journey in CSP - All the struggles, successes, and failures that I go through
+I'm Ian, a current 10th grader, and this blog will go through my journey in CSP - All the struggles, successes, and failures that I go through in this class.
 
-### Hobbies
+Latest Weekly Log: [Week-1-Log](_posts/2023-08-21-Week%201.md)
+
+### Hobbies/About Me
 Where I spend my time when I'm not overloaded with the truckton of homework I get
-- Freeform image, about me: ![Freeform-about-me](/images/csp_image_thing.png)
+- Freeform image, about me: 
+![Freeform-about-me](/images/csp_image_thing.png){width=35% height=35%}
+The above represents my interests, namely geography and computers, as well as a love for road trips. Please excuse the terrible drawing skills, drawing is not my strong suite.
+
 ##### Geography Links
 One of my passions is learning various things about geography, as there are many, many places to explore.
 - City knowledge test: [Cityquiz](https://cityquiz.io)
@@ -34,6 +38,7 @@ One of my passions is learning various things about geography, as there are many
 
 ### Schedule
 Click the buttons below to see my schedule for this first trimester.
+.
 <button class="button" type="button" onclick="alert('AP Physics C: Mechanics')">Period 1</button>
 <button class="button" type="button" onclick="alert('AP Calculus AB')">Period 2</button>
 <button class="button" type="button" onclick="alert('Honors Humanities 1')">Period 3</button>
