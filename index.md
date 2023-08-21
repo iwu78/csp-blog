@@ -26,9 +26,9 @@ Latest Weekly Log: [Week-1-Log](_posts/2023-08-21-Week%201.md)
 
 ### Hobbies/About Me
 Where I spend my time when I'm not overloaded with the truckton of homework I get
-- Freeform image, about me: 
+<p>Freeform image, about me: </p>
 <img src="images/csp_image_thing.png" alt="Freeform About Me" style="width:200px;height:400px;">
-The above represents my interests, namely geography and computers, as well as a love for road trips. Please excuse the terrible drawing skills, drawing is not my strong suite.
+<p>The above represents my interests, namely geography and computers, as well as a love for road trips. Please excuse the terrible drawing skills, drawing is not my strong suite.</p>
 
 ##### Geography Links
 One of my passions is learning various things about geography, as there are many, many places to explore.
@@ -44,7 +44,7 @@ One of my passions is learning various things about geography, as there are many
 <button class="button" type="button" onclick="alert('AP Chinese')">Period 4</button>
 <button class="button" type="button" onclick="alert('AP Computer Science Principles')">Period 5</button>
 
-<h3>Overview of Hacks, Study and Tangibles</h3>
+<h3 style="float:left;">Overview of Hacks, Study and Tangibles</h3>
 Blogging in GitHub pages is a way to learn and code at the same time. 
 
 - Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
