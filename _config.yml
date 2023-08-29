@@ -11,7 +11,7 @@ url: "https://iwu78.github.io"
 # remote_theme: pages-themes/minimal@v0.2.0
 # remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: pages-themes/time-machine@v0.2.0
-theme: jekyll-theme-leaf
+remote_theme: supun-io/jekyll-theme-leaf
 plugins:
 - jekyll-remote-theme
 future: true
