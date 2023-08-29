@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ian's Blog - Homepage
+title: Home
 ---
 
 <style>
@@ -19,7 +19,7 @@ title: Ian's Blog - Homepage
 }
 </style>
 
-# Ian's Blog - CSP
+<h1 style="padding-top: 100px">Ian's Blog - Computer Science Principles</h1>
 I'm Ian, a current 10th grader, and this blog will go through my journey in CSP - All the struggles, successes, and failures that I go through in this class.
 
 Latest Weekly Log: [Week-1-Log](log/2023/08/21/Week-1.html)
