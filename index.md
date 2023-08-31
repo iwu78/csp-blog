@@ -5,10 +5,10 @@ title: Home
 
 <style>
 .button {
-    background-color: #008CBA;
+    background-color: #31B0AC;
     border-radius: 8px;
     font-size: 16px;
-    border: 2px solid #008CBA;
+    border: 2px solid #31B0AC;
     transition-duration: 0.4s;
     color: white;
     float: left;
