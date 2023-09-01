@@ -30,13 +30,6 @@ Where I spend my time when I'm not overloaded with the truckton of homework I ge
 <img src="images/csp_image_thing.png" alt="Freeform About Me" style="width:200px;height:400px;">
 <p>The above represents my interests, namely geography and computers, as well as a love for road trips. Please excuse the terrible drawing skills, drawing is not my strong suite.</p>
 
-##### Geography Links
-One of my passions is learning various things about geography, as there are many, many places to explore.
-- City knowledge test: [Cityquiz](https://cityquiz.io)
-- City coverage on a map: [Hugequiz](https://hugequiz.com/quizzes)
-- [Geoguessr](https://www.geoguessr.com/)
-- Redraw the state borders to see the outcome of elections: [Redraw the States](https://kevinhayeswilson.com/redraw)
-
 ### Schedule
 <p>Click the buttons below to see my schedule for this first trimester.</p>
 <button class="button" type="button" onclick="alert('AP Physics C: Mechanics')">Period 1</button>

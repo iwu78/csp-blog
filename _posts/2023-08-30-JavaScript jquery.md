@@ -13,7 +13,7 @@ type: hacks
     <script type="text/javascript" language="javascript" src="https://cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
 </head>
 
-> Here is a custom table for the hacks following the JavaScript JQuery article, and a custom table. While markdown tables are easier to input data into and more condense, HTML tables provide more customizability and the potential for JavaScript addition. The usage of JavaScript allows for searching inside large tables and allows large tables to be displayed in a less cluttery manner, as well as for sorting.
+> Here is a custom table for the hacks following the JavaScript JQuery article, and a custom table. While markdown tables are easier to input data into and more condense, HTML tables provide more customizability and the potential for JavaScript addition. The usage of JavaScript allows for searching inside large tables and allows large tables to be displayed in a less cluttery manner, as well as for sorting. In the future, adding images and having more styling and customisability would be cool.
 
 <!-- Body contains the contents of the Document -->
 <body>
@@ -161,7 +161,7 @@ type: hacks
             </tr>
             <tr>
                 <td>South Carolina</td>
-                <td>Charleston</td>
+                <td>Columbia</td>
                 <td>5,282,634</td>
                 <td>Greenville</td>
             </tr>
@@ -266,6 +266,66 @@ type: hacks
                 <td>Honolulu</td>
                 <td>1,440,106</td>
                 <td>Honolulu</td>
+            </tr>
+            <tr>
+                <td>New Hampshire</td>
+                <td>Concord</td>
+                <td>1,395,231</td>
+                <td>Manchester</td>
+            </tr>
+            <tr>
+                <td>Maine</td>
+                <td>Augusta</td>
+                <td>1,385,340</td>
+                <td>Portland</td>
+            </tr>
+            <tr>
+                <td>Montana</td>
+                <td>Helena</td>
+                <td>1,122,867</td>
+                <td>Billings</td>
+            </tr>
+            <tr>
+                <td>Rhode Island</td>
+                <td>Providence</td>
+                <td>1,093,724</td>
+                <td>Providence</td>
+            </tr>
+            <tr>
+                <td>Delaware</td>
+                <td>Dover</td>
+                <td>1,018,396</td>
+                <td>Wilmington</td>
+            </tr>
+            <tr>
+                <td>South Dakota</td>
+                <td>Pierre</td>
+                <td>909,824</td>
+                <td>Sioux Falls</td>
+            </tr>
+            <tr>
+                <td>North Dakota</td>
+                <td>Bismarck</td>
+                <td>779,261</td>
+                <td>Fargo</td>
+            </tr>
+            <tr>
+                <td>Alaska</td>
+                <td>Juneau</td>
+                <td>733,583</td>
+                <td>Anchorage</td>
+            </tr>
+            <tr>
+                <td>Vermont</td>
+                <td>Montpelier</td>
+                <td>647,064</td>
+                <td>Burlington</td>
+            </tr>
+            <tr>
+                <td>Wyoming</td>
+                <td>Cheyenne</td>
+                <td>581,381</td>
+                <td>Cheyenne</td>
             </tr>
         </tbody>
     </table>
