@@ -64,7 +64,13 @@ layout: default-post
     {{ content }}
   </div>
   {%- if page.comments -%}
-    {%- include utterances.html -%}
+  <script src="https://utteranc.es/client.js"
+    repo="[ENTER REPO HERE]"
+    issue-term="pathname"
+    theme="github-dark"
+    crossorigin="anonymous"
+    async>
+  </script>
   {%- endif -%}
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
