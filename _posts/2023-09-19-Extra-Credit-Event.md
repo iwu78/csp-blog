@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extra Credit Opportunity
-description: DNHS Alumni Speak about their experiences with CSP, college, and jobs. Here are some takeaways and a reflection.
+description: DNHS Alumni spoke about their experiences with CSP, college, and jobs. Here are some takeaways and a reflection.
 type: hacks
 courses: {csp: {week: 4}}
 ---
