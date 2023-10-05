@@ -1,0 +1,20 @@
+- outline main goal at the beginning of each week
+    - each week has main objective in scrum board
+    - scrum board has three columns
+        - todo, in progress, and done
+        - assign tasks to each person
+- assign roles
+    - scrum master
+        - outline goals
+        - makes scrum board
+        - conduct meetings
+    - frontend
+        - HTML, CSS, JS interaction
+        - design frontend repository
+    - backend
+        - flask server
+        - works with frontend
+    - devops
+        - deploys backend on AWS
+        - helps everybody else
+- Assign tasks at the beginning of each class
