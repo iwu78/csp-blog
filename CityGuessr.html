@@ -1,0 +1,43 @@
+<!--HTML Code-->
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- set titel of page, import CSS-->
+    <title>City Guessr</title>
+    <link rel="stylesheet" href="CityGuessr.css">
+</head>
+<body>
+    <h1>City Guesser</h1>
+    <!--paragraph to explain what game is-->
+    <!--image for game obtained from google earth, data obtained from google-->
+    <p>Welcome to City Guesser! In this game, you will be presented with a satellite image of a major world city. 
+    Your goal is to guess which city it is. If you do so correctly, you will gain a point, but if you guess wrong, 
+    all your points will be removed. Challenge yourself and see how far you can get! Being by clicking the "New City" 
+    button below!</p>
+    <br>
+    <br>
+    <div id="newCity">
+        <!-- button use clicks to get new city, continent selector to select continent-->
+        <button id="requestButton">New City!</button>
+        <label for="continent">Select Continent:</label>  
+        <select id="continent">
+            <option value="all">All</option>
+            <option value="North America">North America</option>
+            <option value="South America">South America</option>
+            <option value="Europe">Europe</option>
+            <option value="Asia">Asia</option>
+        </select>
+    </div>
+    <!--score is to display score, display is div that will have image-->
+    <div id="score"></div>
+    <div id="display"></div>
+    <div id="inputContainer">  
+        <!--user input, textbar for guess, guess button-->
+        <label for="cityInput">Enter City:</label>   
+        <input type="text" id="cityInput">
+        <button id="guessButton">Guess!</button>
+    </div>
+    <!--import JS-->
+    <script src="cityGuessr.js"></script>
+</body>
+</html>

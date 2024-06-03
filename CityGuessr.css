@@ -1,0 +1,10 @@
+/*CSS Code*/
+h1, p, label, #cityInput, #display, #score, #imageContainer, #gameForm, #inputContainer, #newCity {
+    /*center elements*/
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    width: 800px;
+}

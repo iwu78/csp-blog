@@ -1,0 +1,179 @@
+---
+layout: default
+title: Home
+---
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #121212;
+    color: #e0e0e0;
+    transition: background-color 0.3s ease;
+}
+
+header {
+    background-color: #1e1e1e;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.5);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    transition: background-color 0.3s ease;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    transform: scale(1);
+    transition: transform 0.3s ease;
+}
+
+header h1:hover {
+    transform: scale(1.1);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1em;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2em;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #4CAF50;
+}
+
+main {
+    padding: 2em;
+    text-align: center;
+    animation: fadeIn 1s ease-in;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+.welcome h2 {
+    font-size: 2em;
+    margin-bottom: 0.5em;
+    animation: slideIn 0.5s ease-out;
+}
+
+@keyframes slideIn {
+    from { transform: translateX(-100%); }
+    to { transform: translateX(0); }
+}
+
+.posts {
+    margin-top: 2em;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #1e1e1e;
+    border: 1px solid #333;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    margin: 1em;
+    padding: 1.5em;
+    width: 250px;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0,0,0,0.4);
+}
+
+.card h3 {
+    margin-top: 0;
+    font-size: 1.5em;
+    color: #4CAF50;
+}
+
+.card p {
+    color: #b0b0b0;
+}
+
+.card a {
+    color: #4CAF50;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    margin-top: 1em;
+    transition: color 0.3s ease;
+}
+
+.card a:hover {
+    color: #81c784;
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #1e1e1e;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    box-shadow: 0 -2px 4px rgba(0,0,0,0.5);
+    transition: background-color 0.3s ease;
+}
+
+footer p {
+    margin: 0;
+    font-size: 1em;
+}
+</style>
+
+<section class="welcome">
+    <br><br>
+    <h2>Ian's CSP Blog</h2>
+    <p>Notes and Work Log for a high school computer science student. See below for more project details.</p>
+</section>
+<section class="posts">
+    <h2>Projects</h2>
+    <div class="cards">
+        <div class="card">
+            <h3>PixelPartner</h3>
+            <img src="https://bearythegreenbear.github.io/fte-frontend/images/logo.png"></p>
+            <a href="https://bearythegreenbear.github.io/fte-frontend/">Read More</a>
+        </div>
+        <div class="card">
+            <h3>img.crypt</h3>
+            <img src="https://iwu78.github.io/binary/assets/images/logo.png"></p>
+            <a href="https://iwu78.github.io/binary/">Read More</a>
+        </div>
+        <div class="card">
+            <h3>buttonify</h3>
+            <img src="https://iwu78.github.io/PBL_Frontend/logo.png"></p>
+            <a href="https://iwu78.github.io/CPT/">Read More</a>
+        </div>
+        <div class="card">
+            <h3>Data Structures</h3>
+            <img src="https://d33wubrfki0l68.cloudfront.net/1e42e5bf5eb9980be256cb05b499e6e4dcc7eb83/a34d7/assets/showcase/windows8animatedlogo.png"></p>
+            <a href="https://iwu78.github.io/PBL_Frontend/">Read More</a>
+        </div>
+    </div>
+</section>
